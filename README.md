@@ -72,7 +72,7 @@ V. Agregue una hoja de estilo externa con la URL: "mystyle.css".
 
 ```
 <head>
-<link rel=stylesheet" type+text/css href="/mystyle.css">
+<link rel=stylesheet" type=text/css href="/mystyle.css">
 </head>
 
 <body>
